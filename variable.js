@@ -1,4 +1,4 @@
-// Lets learn bariable syntax of javascript
+// Lets learn variable syntax of javascript
 
 // In javascript we dont need to tell what kind of variable it is. Like int, char, string etc. Javascript is smart enough to understand.
 
